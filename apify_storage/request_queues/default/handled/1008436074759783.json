@@ -1,0 +1,16 @@
+{
+    "id": "PMPeFP7t66FmAEC",
+    "url": "https://apify.com/store?type=acts&category=ECOMMERCE",
+    "loadedUrl": "https://apify.com/store?type=acts&category=ECOMMERCE",
+    "uniqueKey": "https://apify.com/store?category=ECOMMERCE&type=acts",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {
+        "label": "CATEGORY"
+    },
+    "handledAt": "2019-07-23T23:40:42.323Z"
+}

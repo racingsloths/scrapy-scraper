@@ -15,7 +15,7 @@ exports.CATEGORY = async ({ $, request }, { requestQueue }) => {
 
 exports.DETAIL = async ({ $, request }) => {
     const urlArr = request.url.split('/').slice(-2);
-    const $wrapper = $('div.product-name');
+    const $wrapper = $('header div.wrap');
 
     log.debug('Scraping results');
     const results = {

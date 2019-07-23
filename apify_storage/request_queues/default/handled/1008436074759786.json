@@ -1,0 +1,16 @@
+{
+    "id": "iZmmjjCo1cP8wKe",
+    "url": "https://apify.com/store?type=acts&category=TRAVEL",
+    "loadedUrl": "https://apify.com/store?type=acts&category=TRAVEL",
+    "uniqueKey": "https://apify.com/store?category=TRAVEL&type=acts",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {
+        "label": "CATEGORY"
+    },
+    "handledAt": "2019-07-23T23:40:43.493Z"
+}

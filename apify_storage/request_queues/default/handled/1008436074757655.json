@@ -1,0 +1,16 @@
+{
+    "id": "xMxJDUibFc0vSlH",
+    "url": "https://apify.com/store?type=acts&category=ENTERTAINMENT",
+    "loadedUrl": "https://apify.com/store?type=acts&category=ENTERTAINMENT",
+    "uniqueKey": "https://apify.com/store?category=ENTERTAINMENT&type=acts",
+    "method": "GET",
+    "payload": null,
+    "noRetry": false,
+    "retryCount": 0,
+    "errorMessages": null,
+    "headers": {},
+    "userData": {
+        "label": "CATEGORY"
+    },
+    "handledAt": "2019-07-23T23:40:44.070Z"
+}

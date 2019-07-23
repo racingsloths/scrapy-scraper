@@ -1,6 +1,18 @@
 [
   {
-    "url": "https://www.cellarlink.com.au/buy-wine-online/store/newproducts",
+    "url": "https://apify.com/store?type=acts&category=TRAVEL",
+    "userData": {
+      "label": "CATEGORY"
+    }
+  },
+  {
+    "url": "https://apify.com/store?type=acts&category=ECOMMERCE",
+    "userData": {
+      "label": "CATEGORY"
+    }
+  },
+  {
+    "url": "https://apify.com/store?type=acts&category=ENTERTAINMENT",
     "userData": {
       "label": "CATEGORY"
     }

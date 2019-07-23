@@ -7,7 +7,7 @@ exports.getSources = async () => {
     const input = await Apify.getInput();
 
     return input.map(category => ({
-        url: `https://www.cellarlink.com.au/buy-wine-online/store/${category}`,
+        url: `https://apify.com/store?type=acts&category=${category}`,
         userData: {
             label: 'CATEGORY'
         }
